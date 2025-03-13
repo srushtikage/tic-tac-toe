@@ -1,0 +1,18 @@
+main{
+    display: grid;
+    grid-template-columns: 150px 150px 150px;
+    grid-gap: 0px;
+}
+
+app-square{
+    border: 01px gray solid;
+    height: 150px;
+}
+
+h1{
+    color: white;
+}
+
+h2{
+    color: white;
+}
